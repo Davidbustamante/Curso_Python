@@ -1,0 +1,16 @@
+01	ERIK VELÁSQUEZ GARCÍA	Universidad Nacional Autónoma de México
+02	ENRIQUE NALDA	Instituto Nacional de Antropología e Historia
+03	PABLO ESCALANTE GONZALBO	Universidad Nacional Autónoma de México
+04	BERNARDO GARCÍA MARTÍNEZ	El Colegio de México
+05	BERNARDO GARCÍA MARTÍNEZ	El Colegio de México
+06	BERND HAUSBERGER y ÓSCAR MAZÍN	El Colegio de México
+07	DOROTHY TANCK DE ESTRADA y CARLOS MARICHAL	El Colegio de México	
+08	ALFREDO ÁVILA	Universidad Nacional Autónoma de México
+09	JOSÉ ANTONIO SERRANO ORTEGA y JOSEFINA ZORAIDA VÁZQUEZ	El Colegio de Michoacán; El Colegio de México
+10	ANDRÉS LIRA y ANNE STAPLES	El Colegio de México
+11	SANDRA KUNTZ FICKER y ELISA SPECKMAN GUERRA	El Colegio de México; Universidad Nacional Autónoma de México
+12	JAVIER GARCIADIEGO y SANDRA KUNTZ FICKER	El Colegio de México
+13	LUIS ABOITES y ENGRACIA LOYO	El Colegio de México
+14	SOLEDAD LOAEZA	El Colegio de México
+15	ARIEL RODRÍGUEZ KURI y RENATO GONZÁLEZ MELLO	El Colegio de México; Universidad Nacional Autónoma de México
+16	GRACIELA MÁRQUEZ y LORENZO MEYER	El Colegio de México
